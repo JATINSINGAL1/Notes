@@ -1,0 +1,1 @@
+Web content's **origin** is defined by the _scheme_ (protocol), _hostname_ (domain), and _port_ of the [URL](https://developer.mozilla.org/en-US/docs/Glossary/URL) used to access it. Two objects have the same origin only when the scheme, hostname, and port all match.

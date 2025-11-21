@@ -1,0 +1,2 @@
+[1] For this example to work, you need to make sure address-space randomization is disabled; randomization, as it turns out, can be a good defense against certain kinds of security flaws. Read more about it on your own, especially if you want to learn how to break into computer systems via stack-smashing attacks.
+[2] Device Drivers A device driver is some code in the operating system that knows how to deal with a specific device.
